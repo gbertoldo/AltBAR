@@ -44,7 +44,7 @@ Observação:
 ### Visão geral
 A interface gráfica AltBAR-UI é a forma mais simples para extrair os dados de voo, limpar a memória e gravar o firmware no altímetro. 
 
-<img width="886" height="664" alt="image" src="https://github.com/user-attachments/assets/005ceb8e-d9b7-498f-9244-d573053f23b4" />
+<img width="886" height="471" alt="image" src="https://github.com/user-attachments/assets/f92864a6-4805-4841-b8ee-46e9a978ca25" />
 
 Para utilizá-la, siga os passos a seguir:
 1)	Baixe e descompacte a interface AltBAR-UI;
