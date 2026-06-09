@@ -1,5 +1,5 @@
 # AltBAR 🚀
-O altímetro open-source da BAR.
+O altímetro *open-source* da BAR.
 
 ## Histórico
 Desenvolvido por Rodrigo de Marco, em seu trabalho de conclusão de curso de Engenharia Elétrica em 2016, o Microaltímetro Universal (MAU) foi o primeiro altímetro compacto produzido e comercializado no Brasil com aplicação em foguetemodelismo.  
@@ -54,7 +54,7 @@ Para utilizá-la, siga os passos a seguir:
 4)	Mude a chave seletora do AltBAR para “off”. Nesta posição, o altímetro será desconectado da bateria, mas conectado à alimentação do computador.
 
 ### Gravação de firmware
-Antes do primeiro uso do altímetro, é necessário carregar o firmware no microcontrolador, isto é, o software que fará a gestão do altímetro. Este procedimento precisa ser realizado somente uma vez. No menu “Operações” da interface gráfica, selecione a opção “Gravar firmware”.
+Antes do primeiro uso do altímetro, é necessário carregar o *firmware* no microcontrolador, isto é, o *software* que fará a gestão do altímetro. Este procedimento precisa ser realizado somente uma vez. No menu “Operações” da interface gráfica, selecione a opção “Gravar firmware”.
  
 Ao final da gravação, a seguinte mensagem será exibida no terminal inferior da interface:
 
