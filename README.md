@@ -28,7 +28,8 @@ C)	Placa adaptadora
 D)	Gravador AVR USB-ASP. IMPORTANTE: o jumper deve selecionar a tensão de 3,3 V
 
 ## Onde comprar?
-Os arquivos de produção do AltBAR e da placa adaptadora (Gerber, BOM, Pick and place) estão disponíveis publicamente, de modo que qualquer pessoa poderá solicitar o altímetro pronto em sites como PCBWay ou JLCPCB. O cabo JST-GH e o Gravador AVR USB-ASP podem ser encontrados em diversas lojas online.
+Os arquivos de produção do AltBAR e da placa adaptadora (Gerber, BOM, Pick and place) estão [disponíveis publicamente](https://github.com/gbertoldo/AltBAR-UI/tree/master/Hardware), de modo que qualquer pessoa poderá solicitar o altímetro pronto em sites como [PCBWay](https://www.pcbway.com/) ou [JLCPCB](https://jlcpcb.com/). O cabo JST-GH e o Gravador AVR USB-ASP podem ser encontrados em diversas lojas online.
+
 Alternativamente, é possível adquirir o altímetro através dos fornecedores XX?
 
 ## Como utilizar o AltBAR
