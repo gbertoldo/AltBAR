@@ -64,6 +64,10 @@ Ao final da gravação, a seguinte mensagem será exibida no terminal inferior d
 Para extrair os dados do último voo, clique no botão “Extrair dados” na lateral direita da interface gráfica ou através do menu “Operações”, item “Extrair dados”. Caso haja dados de voo, será exibido um gráfico da altura como função do tempo na parte central da interface. Os mesmos dados do gráfico podem ser acessados através do botão “Relatório” ou no menu “Operações”, item “Relatório”.
 Limpeza da memória de voo
 Para limpar a memória de voo, basta clicar no botão “Limpar memória” na lateral direita da interface gráfica ou através do menu “Operações”, item “Limpar memória”. 
+
+## Lançamentos e testes
+Alguns dos lançamentos e testes do AltBAR encontram-se [aqui](https://github.com/gbertoldo/AltBAR/tree/master/Tests). 
+
 ## Agradecimento
 A Associação Brasileira de Minifoguetes (BAR) agradece a Rodrigo de Marco pela contribuição com o desenvolvimento do MAU e por compartilhar publicamente o seu projeto.
 A BAR também agradece Ijanai dos Santos Sobrinho e Pedro Alves pela compra do primeiro lote de testes de AltBAR.
